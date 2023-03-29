@@ -1,4 +1,4 @@
-OPENAI_KEY: <Your OpenAI API key>
+OPENAI_KEY: <eiPrrJLuQGPIj0rdaRHjT3BlbkFJcirf8BWmzR5Sev9oPAX7>
 DEPLOYMENT: local # change to azure if you want the db to reside in your azure storage account
 AZURE:
   connectionString: <Azure storage connection string> # Obtain from azure portal -> your storage account -> "Access keys"
